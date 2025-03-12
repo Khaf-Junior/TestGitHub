@@ -6,14 +6,10 @@ CREATE TABLE utilisateurs(
     Prenom VARCHAR(100),
     Nom VARCHAR(100),
 )
-insert into utilisateurs 
-values
-(1,'Alice','Dupont');
-(2,'Mariama','Ba');
-<<<<<<< Updated upstream
+
 insert into utilisateurs
 values
-('Sokhna','Diallo')
-('Ibrahima','Mbaye')
-=======
->>>>>>> Stashed changes
+(1,'Sokhna','Diallo')
+(2,'Ibrahima','Mbaye')
+Select Prenom, Nom 
+from utilisateurs
