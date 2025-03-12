@@ -10,10 +10,5 @@ insert into utilisateurs
 values
 (1,'Alice','Dupont');
 (2,'Mariama','Ba');
-<<<<<<< Updated upstream
-insert into utilisateurs
-values
-('Sokhna','Diallo')
-('Ibrahima','Mbaye')
-=======
->>>>>>> Stashed changes
+
+SELECT Prenom,Nom FROM utilisateurs
