@@ -6,7 +6,7 @@ CREATE TABLE utilisateurs(
     Prenom VARCHAR(100),
     Nom VARCHAR(100),
 )
-insert into
+insert into utilisateurs
 values
 (1,'Alice','Dupont');
 (2,'Mariama','Ba');
