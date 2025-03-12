@@ -5,8 +5,9 @@ CREATE TABLE utilisateurs(
     idUser PRIMARY KEY INT,
     Prenom VARCHAR(100),
     Nom VARCHAR(100),
-);
+)
 insert into
 values
 (1,'Alice','Dupont');
 (2,'Mariama','Ba');
+
