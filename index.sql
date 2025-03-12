@@ -9,7 +9,11 @@ CREATE TABLE utilisateurs(
 
 insert into utilisateurs
 values
-(1,'Sokhna','Diallo')
-(2,'Ibrahima','Mbaye')
+(1,'Alice','Dupont');
+(2,'Mariama','Ba');
+insert into utilisateurs
+values
+(1,'Sokhna','Diallo');
+(2,'Ibrahima','Mbaye');
 Select Prenom, Nom 
-from utilisateurs
+from utilisateurs;
