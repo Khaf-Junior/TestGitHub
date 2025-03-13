@@ -8,3 +8,5 @@ CREATE TABLE utilisateurs (
     Nom VARCHAR(100),
     Tel INT NOT NULL
 );
+
+INSERT INTO utilisateurs VALUES (1,'Pape Ibrahima','MBAYE','784886538');
