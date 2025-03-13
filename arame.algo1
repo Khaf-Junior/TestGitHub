@@ -1,9 +1,9 @@
 Algorithme PairOuImpair
-    // Demande à l'utilisateur de saisir un nombre
+    
     Afficher "Entrez un nombre :"
     Lire nombre
 
-    // Vérifie si le nombre est pair
+    
     Si (nombre mod 2 = 0) Alors
         Afficher nombre, " est pair."
     Sinon
