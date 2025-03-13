@@ -1,0 +1,13 @@
+Algorithme Test
+    variable:
+                nombre,a : entier
+        debut
+            Ecrire("Saisir un entier: )
+            Lire (entier)
+
+            a <-- entier * 2
+
+            Ecrire (entier," x 2 = ", a)
+
+        Fin
+Fin
