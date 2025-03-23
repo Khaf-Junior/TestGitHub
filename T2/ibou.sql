@@ -1,0 +1,9 @@
+CREATE DATABASE Ibou;
+USE Ibou;
+
+CREATE TABLE Etudiant(
+    idEtudiant INT PRIMARY KEY NOT NULL,
+    Nom TEXT NOT NULL,
+    Prenom TEXT NOT NULL,
+    Tel INT NOT NULL
+);
